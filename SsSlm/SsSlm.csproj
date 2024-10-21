@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <Title>SS SLM</Title>
+        <Authors>Dr.Guo</Authors>
+        <Description>ShenSi Slm for C# </Description>
+    </PropertyGroup>
+
+</Project>
